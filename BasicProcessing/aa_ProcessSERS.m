@@ -1,3 +1,13 @@
+% Author: Marjorie R. Willner
+% Version: MATLAB R2016a
+% Last modified: 8/2/17
+% Copyright 2017 by Marjorie R. Willner
+%--------------------------------------------------------------------------
+
+
+
+
+
 dirName = uigetdir('C:\Users\Marjorie\Desktop\PBAT50-try2');
 
 
